@@ -1,6 +1,6 @@
 # ac-shell
 
-[auto-comple](https://github.com/auto-complete/auto-complete/) source for shell commands. This is port of [company-shell](https://github.com/Alexander-Miller/company-shell).
+[auto-complete](https://github.com/auto-complete/auto-complete/) source for shell commands. This is port of [company-shell](https://github.com/Alexander-Miller/company-shell).
 
 ## Screenshot
 
